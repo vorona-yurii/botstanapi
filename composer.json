@@ -1,7 +1,7 @@
 {
     "license": "MIT",
     "type": "library",
-    "name": "amemorypro/botstanapi",
+    "name": "vorona-yurii/botstanapi",
     "minimum-stability": "stable",
     "description": "Use telegram bot api easily.",
     "keywords": ["yii2","telegram","bot","api"],
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/amemorypro/BotStanApi/issues",
-        "source": "https://github.com/amemorypro/BotStanApi"
+        "issues": "https://github.com/vorona-yurii/botstanapi/issues",
+        "source": "https://github.com/vorona-yurii/botstanapi"
     },
     "require": {
         "php": ">=5.5.0",
