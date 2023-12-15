@@ -1,6 +1,6 @@
 ## Introduction
 
-[![Download](https://img.shields.io/packagist/dt/botstan/API.svg?style=for-the-badge)](https://github.com/botstan/API) [![Version](https://img.shields.io/badge/version-V1.1.0-yellogreen.svg?style=for-the-badge)](https://github.com/botstan/API) [![API Version](https://img.shields.io/badge/api%20version-V3.6-orange.svg?style=for-the-badge)](https://github.com/botstan/API) [![Stars](https://img.shields.io/github/stars/botstan/API.svg?style=for-the-badge&label=Like)](https://github.com/botstan/API)
+[![Download](https://img.shields.io/packagist/dt/botstan/API.svg?style=for-the-badge)](https://github.com/vorona-yurii/botstanapi) [![Version](https://img.shields.io/badge/version-V1.1.0-yellogreen.svg?style=for-the-badge)](https://github.com/vorona-yurii/botstanapi) [![API Version](https://img.shields.io/badge/api%20version-V3.6-orange.svg?style=for-the-badge)](https://github.com/vorona-yurii/botstanapi) [![Stars](https://img.shields.io/github/stars/botstan/API.svg?style=for-the-badge&label=Like)](https://github.com/vorona-yurii/botstanapi)
 
 The API is an HTTP-based interface created for developers keen on building bots for Telegram. To learn how to create and set up a bot, please consult [Telegram Introduction to Bots](https://core.telegram.org/bots) and [Bot FAQ](https://core.telegram.org/bots/faq).
 
@@ -17,10 +17,10 @@ The API is an HTTP-based interface created for developers keen on building bots 
 
 ### Installation
 
-Install this package through [Composer](https://getcomposer.org/). Edit your project's `composer.json` file to require `"amemorypro/botstanapi": "dev-master"` Or run this command in your command line:
+Install this package through [Composer](https://getcomposer.org/). Edit your project's `composer.json` file to require `"vorona-yurii/botstanapi": "dev-master"` Or run this command in your command line:
 
 ```shell
-composer require amemorypro/botstanapi
+composer require vorona-yurii/botstanapi
 ```
 
 
